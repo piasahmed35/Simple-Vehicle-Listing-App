@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Land Rover",
+        "type": "car",
+        "price": "96305",
+        "image": "https:\/\/images.wsj.net\/im-913577?width=1280&size=1"
+    },
+    {
+        "name": "BMW",
+        "type": "Car",
+        "price": "74250",
+        "image": "https:\/\/www.bmw-special-sales.com\/content\/dam\/bmw\/marketBMWCOM\/bmw-special-sales_com\/common\/protection\/7-protection\/bmw-css-7-series-protection-ms-new-standard.jpg\/jcr:content\/renditions\/cq5dam.resized.img.585.low.time1689578512404.jpg"
+    },
+    {
+        "name": "Lamborghini",
+        "type": "Car",
+        "price": "430000",
+        "image": "https:\/\/www.lamborghini.com\/sites\/it-en\/files\/DAM\/lamborghini\/facelift_2019\/model_detail\/temerario\/temerario\/over\/overview.jpg"
+    },
+    {
+        "name": "Mercedes-Benz",
+        "type": "Car",
+        "price": "62450",
+        "image": "https:\/\/www.mercedes-benz.com\/content\/dam\/brandhub\/assets\/vehicles\/mercedes-benz\/c-class-ws206\/adapted-stage\/02-2021\/images\/mercedes-benz-c-class-w206-adapted-stage-03-3400x1912-02-2021.jpg\/_jcr_content\/renditions\/image-crop-default.jpeg\/1730302671953.jpg?im=Resize=(2560);Crop,rect=(0,0,2560,1440)"
+    },
+    {
+        "name": "Bugatti",
+        "type": "Car",
+        "price": "4600000",
+        "image": "https:\/\/www.hdcarwallpapers.com\/walls\/bugatti_chiron_profilee_4k_3-HD.jpg"
+    },
+    {
+        "name": "Bentley Mulliner Batur",
+        "type": "Car",
+        "price": "1650000",
+        "image": "https:\/\/www.topgear.com\/sites\/default\/files\/2022\/08\/Bentley%20Mulliner%20Batur%20-%201.jpg"
+    }
+]
